@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Software-defined edge IoT for ovarian cancer risk scoring: measurement and simulation code"
+version: "1.0.0"
+date-released: "2026-10-21"
+authors:
+  - family-names: "Miriampally"
+    given-names: "Venkata Raghavendra"
+    orcid: "https://orcid.org/0009-0007-9975-3879"
+    affiliation: "Alliance School of Applied Engineering, Alliance University, Bengaluru, India"
+license: MIT
+keywords:
+  - edge computing
+  - Internet of Medical Things
+  - ovarian cancer
+  - computed tomography
+  - latency simulation
+# After you create the GitHub repository, add a line:  repository-code: "https://github.com/<user>/<repo>"
