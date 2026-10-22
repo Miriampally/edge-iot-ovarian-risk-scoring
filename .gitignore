@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data and models (not redistributed)
+*.dcm
+*.nii
+*.nii.gz
+frozen_model/
+patient_series_list.csv
+clinical.tsv
+*.h5
+*.keras
+
+# Manuscript source (kept out of this repo)
+paper/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
