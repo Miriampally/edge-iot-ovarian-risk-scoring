@@ -1,0 +1,4 @@
+# Systems experiments, figures and measurement scripts (run in about 2 minutes, no data needed)
+numpy
+matplotlib
+# Risk-score pipeline and timing wrapper: see pipeline/requirements.txt
