@@ -1,5 +1,0 @@
-study_mb,edge_infer_mean_s,edge_infer_min_s,edge_infer_max_s,edge_p50_s,edge_p95_s,cloud_p50_s,cloud_p95_s,breakeven_mbps_cloud_infer_4s,breakeven_mbps_cloud_infer_0.5s
-30.0,3.39,2.91,4.03,3.7,4.6,17.6,91.6,none below 2000,101
-112.0,6.48,5.7,7.98,7.6,9.2,54.4,66.0,446,178
-514.9,11.22,6.72,19.09,16.0,18.9,235.0,281.9,675,453
-1610.4,50.08,48.63,52.29,64.9,77.6,725.7,867.0,326,303
